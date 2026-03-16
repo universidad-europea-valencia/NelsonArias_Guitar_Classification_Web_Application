@@ -437,7 +437,7 @@ PHASE 5: Documentation (Week 4)
 ```bash
 # Initial clone/setup
 git clone <repo>
-cd Plataforma_RNN_Guitarras
+cd NelsonArias_Guitar_Classification_Web_Application
 docker-compose up -d
 
 # Backend is at http://localhost:5000

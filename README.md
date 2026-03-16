@@ -259,6 +259,6 @@ Para preguntas sobre esta documentación:
 
 **Versión:** 1.0  
 **Última actualización:** Marzo 2026 
-**Autor:** Nelson Mauricio Arias
-**Modelo Usado:** Claude Haiku 4.5 (by Anthropic)
-**Estado:** Documentación de Diseño (Sin Implementación)
+**Autor:** Nelson Mauricio Arias 
+**Modelo Usado:** Claude Haiku 4.5 (by Anthropic) 
+**Estado:** Documentación de Diseño (Sin Implementación) 
