@@ -1,0 +1,6 @@
+*.ini
+*.sh
+*venv
+*.log
+*cache
+*.omc
